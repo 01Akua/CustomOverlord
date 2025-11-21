@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastillas de freno delanteras",
+    "precio": 45000,
+    "sku": "FR-PAST-001",
+    "stock": 24,
+    "compatibilidad": [
+      { "marca": "Yamaha", "modelo": "FZ 2.0", "años": [2016, 2017] },
+      { "marca": "Honda", "modelo": "CB 190R", "años": [2017, 2018] }
+    ],
+    "categoria": "Frenos",
+    "descripcion": "Pastillas sintéticas de alto rendimiento.",
+    "especificaciones": "Material semi-metálico; Espesor 7mm; Uso calle",
+    "equivalentes": ["SBS-1234", "EBC-FA197"],
+    "recomendaciones": "Asentar durante 50 km y evitar frenadas bruscas iniciales"
+  },
+  {
+    "id": 2,
+    "nombre": "Filtro de aire deportivo",
+    "precio": 38000,
+    "sku": "MO-FILT-002",
+    "stock": 35,
+    "compatibilidad": [
+      { "marca": "Honda", "modelo": "CB 190R", "años": [2017, 2018, 2019] },
+      { "marca": "Yamaha", "modelo": "MT-03", "años": [2019, 2020, 2021] }
+    ],
+    "categoria": "Motor",
+    "descripcion": "Filtro lavable con mayor flujo de aire.",
+    "especificaciones": "Flujo +12%; Malla doble; Reutilizable",
+    "equivalentes": ["K&N-HO-190R", "DNA-YA-MT03"],
+    "recomendaciones": "Limpiar y reaceitar cada 5000 km"
+  },
+  {
+    "id": 3,
+    "nombre": "Kit transmisión reforzado",
+    "precio": 120000,
+    "sku": "TR-KIT-003",
+    "stock": 12,
+    "compatibilidad": [
+      { "marca": "Suzuki", "modelo": "Gixxer 155", "años": [2018, 2019, 2020] },
+      { "marca": "Bajaj", "modelo": "Rouser NS200", "años": [2018, 2019, 2020] }
+    ],
+    "categoria": "Transmisión",
+    "descripcion": "Piñón, corona y cadena de alta durabilidad.",
+    "especificaciones": "Acero tratado; Paso 520; 108 eslabones",
+    "equivalentes": ["RK-520", "DID-520VX3"],
+    "recomendaciones": "Lubricar cada 600 km y revisar tensión"
+  },
+  {
+    "id": 4,
+    "nombre": "Manillar deportivo aluminio",
+    "precio": 75000,
+    "sku": "AC-MAN-004",
+    "stock": 18,
+    "compatibilidad": [
+      { "marca": "Yamaha", "modelo": "FZ 2.0", "años": [2016, 2017, 2018] },
+      { "marca": "Honda", "modelo": "XR 150L", "años": [2016, 2017, 2018] }
+    ],
+    "categoria": "Accesorios",
+    "descripcion": "Manillar de aluminio liviano.",
+    "especificaciones": "Ancho 760mm; Diámetro 22mm; Peso 620g",
+    "equivalentes": ["ProTaper-SE", "Renthal-756"],
+    "recomendaciones": "Usar torquímetro y fijador de roscas"
+  },
+  {
+    "id": 5,
+    "nombre": "Disco de freno ventilado",
+    "precio": 98000,
+    "sku": "FR-DISC-005",
+    "stock": 10,
+    "compatibilidad": [
+      { "marca": "Yamaha", "modelo": "MT-03", "años": [2019, 2020] }
+    ],
+    "categoria": "Frenos",
+    "descripcion": "Disco ventilado de alto desempeño.",
+    "especificaciones": "Diámetro 298mm; Espesor 4.5mm; Acero 420",
+    "equivalentes": ["Brembo-298V", "Galfer-Wave"],
+    "recomendaciones": "Cambiar junto a pastillas nuevas"
+  },
+  {
+    "id": 6,
+    "nombre": "Amortiguadores traseros regulables",
+    "precio": 210000,
+    "sku": "SU-AMORT-006",
+    "stock": 7,
+    "compatibilidad": [
+      { "marca": "Honda", "modelo": "CG 150", "años": [2014, 2015, 2016, 2017] },
+      { "marca": "Hero", "modelo": "Hunk 160", "años": [2018, 2019, 2020] }
+    ],
+    "categoria": "Suspensión",
+    "descripcion": "Amortiguadores con precarga y rebote ajustables.",
+    "especificaciones": "Recorrido 100mm; Carga 8 posiciones",
+    "equivalentes": ["YSS-CG150", "Hagon-Adjust"],
+    "recomendaciones": "Regular con piloto a bordo"
+  },
+  {
+    "id": 7,
+    "nombre": "Batería AGM 9Ah",
+    "precio": 65000,
+    "sku": "EL-BAT-007",
+    "stock": 20,
+    "compatibilidad": [
+      { "marca": "Kawasaki", "modelo": "Z250", "años": [2015, 2016, 2017, 2018] },
+      { "marca": "KTM", "modelo": "Duke 200", "años": [2016, 2017, 2018] }
+    ],
+    "categoria": "Eléctrico",
+    "descripcion": "Batería libre de mantenimiento.",
+    "especificaciones": "Voltaje 12V; Capacidad 9Ah; CCA 150",
+    "equivalentes": ["Yuasa-YTX9", "Bosch-M6"]
+  },
+  {
+    "id": 8,
+    "nombre": "Kit LED H4 alta/baja",
+    "precio": 42000,
+    "sku": "EL-LED-008",
+    "stock": 50,
+    "compatibilidad": [
+      { "marca": "TVS", "modelo": "Apache 200", "años": [2017, 2018, 2019, 2020] },
+      { "marca": "Bajaj", "modelo": "Pulsar 180", "años": [2015, 2016, 2017, 2018] }
+    ],
+    "categoria": "Eléctrico",
+    "descripcion": "Bombillas LED con ventilación activa.",
+    "especificaciones": "6000K; 4800lm; IP67",
+    "equivalentes": ["Philips-LED-H4", "Osram-NightBreaker"],
+    "recomendaciones": "Ajustar el faro y evitar encandilamiento"
+  },
+  {
+    "id": 9,
+    "nombre": "Filtro de aceite sintético",
+    "precio": 15000,
+    "sku": "MO-FILT-009",
+    "stock": 60,
+    "compatibilidad": [
+      { "marca": "Yamaha", "modelo": "R15", "años": [2017, 2018, 2019, 2020] },
+      { "marca": "Suzuki", "modelo": "GSX-S150", "años": [2017, 2018, 2019, 2020] }
+    ],
+    "categoria": "Motor",
+    "descripcion": "Filtro con media sintética de alto flujo.",
+    "especificaciones": "Micraje 10µm; Bypass 1.2bar",
+    "equivalentes": ["K&N-204", "Hiflo-HF204"],
+    "recomendaciones": "Cambiar cada 4000–6000 km"
+  },
+  {
+    "id": 10,
+    "nombre": "Cable de embrague reforzado",
+    "precio": 19000,
+    "sku": "TR-EMB-010",
+    "stock": 40,
+    "compatibilidad": [
+      { "marca": "Bajaj", "modelo": "Rouser NS200", "años": [2017, 2018, 2019, 2020] },
+      { "marca": "KTM", "modelo": "Duke 200", "años": [2016, 2017, 2018, 2019] }
+    ],
+    "categoria": "Transmisión",
+    "descripcion": "Cable con funda teflonada de baja fricción.",
+    "especificaciones": "Núcleo acero trenzado; Longitud OEM",
+    "equivalentes": ["MotionPro-CL", "Rostfrei-CL"],
+    "recomendaciones": "Lubricar la funda periódicamente"
+  },
+  {
+    "id": 11,
+    "nombre": "Piñón 14T acero templado",
+    "precio": 22000,
+    "sku": "TR-PIN-011",
+    "stock": 22,
+    "compatibilidad": [
+      { "marca": "Honda", "modelo": "XR 150L", "años": [2016, 2017, 2018, 2019] },
+      { "marca": "TVS", "modelo": "Apache 200", "años": [2017, 2018, 2019] }
+    ],
+    "categoria": "Transmisión",
+    "descripcion": "Piñón de alta durabilidad.",
+    "especificaciones": "Acero 1045; Tratamiento térmico",
+    "equivalentes": ["JT-Sprockets", "Sunstar-14T"]
+  },
+  {
+    "id": 12,
+    "nombre": "Corona 42T acero",
+    "precio": 28000,
+    "sku": "TR-COR-012",
+    "stock": 25,
+    "compatibilidad": [
+      { "marca": "Suzuki", "modelo": "Gixxer 155", "años": [2018, 2019, 2020] },
+      { "marca": "Yamaha", "modelo": "FZ 2.0", "años": [2016, 2017, 2018] }
+    ],
+    "categoria": "Transmisión",
+    "descripcion": "Corona con dientes perfilados.",
+    "especificaciones": "Acero 1045; Offset OEM",
+    "equivalentes": ["JT-42T", "Esjot-42T"]
+  },
+  {
+    "id": 13,
+    "nombre": "Pastillas traseras orgánicas",
+    "precio": 32000,
+    "sku": "FR-PAST-013",
+    "stock": 30,
+    "compatibilidad": [
+      { "marca": "Bajaj", "modelo": "Pulsar 180", "años": [2015, 2016, 2017, 2018] },
+      { "marca": "Hero", "modelo": "Hunk 160", "años": [2018, 2019, 2020] }
+    ],
+    "categoria": "Frenos",
+    "descripcion": "Compuesto orgánico de baja abrasión.",
+    "especificaciones": "Espesor 6mm; Índice fricción FF",
+    "equivalentes": ["EBC-FA196", "SBS-1301"]
+  },
+  {
+    "id": 14,
+    "nombre": "Kit juntas motor superior",
+    "precio": 54000,
+    "sku": "MO-JUNT-014",
+    "stock": 16,
+    "compatibilidad": [
+      { "marca": "Yamaha", "modelo": "R15", "años": [2017, 2018, 2019] },
+      { "marca": "Suzuki", "modelo": "GSX-S150", "años": [2017, 2018] }
+    ],
+    "categoria": "Motor",
+    "descripcion": "Juntas de tapa, árbol y tapa válvulas.",
+    "especificaciones": "Material viton/fibra; Tolerancia OEM",
+    "equivalentes": ["Athena-Gasket", "Cometic-TopEnd"]
+  },
+  {
+    "id": 15,
+    "nombre": "Cables de bujía silicona",
+    "precio": 26000,
+    "sku": "EL-CABL-015",
+    "stock": 45,
+    "compatibilidad": [
+      { "marca": "Honda", "modelo": "CB 190R", "años": [2017, 2018, 2019] },
+      { "marca": "Kawasaki", "modelo": "Z250", "años": [2015, 2016, 2017] }
+    ],
+    "categoria": "Eléctrico",
+    "descripcion": "Cables de alta resistencia dieléctrica.",
+    "especificaciones": "Silicona 8mm; Núcleo cobre",
+    "equivalentes": ["NGK-Silicone", "Accel-8mm"]
+  },
+  {
+    "id": 16,
+    "nombre": "Guardabarros trasero extendido",
+    "precio": 37000,
+    "sku": "AC-GUAR-016",
+    "stock": 14,
+    "compatibilidad": [
+      { "marca": "Yamaha", "modelo": "MT-03", "años": [2019, 2020, 2021] },
+      { "marca": "KTM", "modelo": "Duke 200", "años": [2016, 2017, 2018, 2019] }
+    ],
+    "categoria": "Accesorios",
+    "descripcion": "Protección contra salpicaduras.",
+    "especificaciones": "ABS inyectado; Soportes metálicos",
+    "equivalentes": ["PUIG-RearHugger", "PowerBronze-Guard"]
+  },
+  {
+    "id": 17,
+    "nombre": "Kit slider protectores",
+    "precio": 89000,
+    "sku": "AC-SLID-017",
+    "stock": 9,
+    "compatibilidad": [
+      { "marca": "Yamaha", "modelo": "R15", "años": [2018, 2019, 2020] },
+      { "marca": "Kawasaki", "modelo": "Z250", "años": [2015, 2016, 2017, 2018] }
+    ],
+    "categoria": "Accesorios",
+    "descripcion": "Protectores laterales anti-caída.",
+    "especificaciones": "Nylon de alta densidad; Anclajes de acero",
+    "equivalentes": ["R&G-Crash", "GBRacing-Frame"]
+  },
+  {
+    "id": 18,
+    "nombre": "Juego neumáticos 100/80–17 y 140/70–17",
+    "precio": 230000,
+    "sku": "NE-JUEG-018",
+    "stock": 8,
+    "compatibilidad": [
+      { "marca": "Suzuki", "modelo": "Gixxer 155", "años": [2018, 2019, 2020] },
+      { "marca": "Yamaha", "modelo": "R15", "años": [2017, 2018, 2019] }
+    ],
+    "categoria": "Neumáticos",
+    "descripcion": "Juego de neumáticos sport-tourer.",
+    "especificaciones": "Índice 52/66H; Compuesto dual",
+    "equivalentes": ["Pirelli-Diablo", "Michelin-PilotStreet"]
+  }
+]

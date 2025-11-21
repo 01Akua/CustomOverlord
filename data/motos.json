@@ -1,0 +1,16 @@
+[
+  { "marca": "Yamaha", "modelo": "FZ 2.0", "años": [2016, 2017, 2018] },
+  { "marca": "Yamaha", "modelo": "MT-03", "años": [2019, 2020, 2021] },
+  { "marca": "Yamaha", "modelo": "R15", "años": [2017, 2018, 2019, 2020] },
+  { "marca": "Honda", "modelo": "CB 190R", "años": [2017, 2018, 2019] },
+  { "marca": "Honda", "modelo": "XR 150L", "años": [2016, 2017, 2018, 2019] },
+  { "marca": "Honda", "modelo": "CG 150", "años": [2014, 2015, 2016, 2017] },
+  { "marca": "Suzuki", "modelo": "Gixxer 155", "años": [2018, 2019, 2020] },
+  { "marca": "Suzuki", "modelo": "GSX-S150", "años": [2017, 2018, 2019, 2020] },
+  { "marca": "Bajaj", "modelo": "Rouser NS200", "años": [2017, 2018, 2019, 2020] },
+  { "marca": "Bajaj", "modelo": "Pulsar 180", "años": [2015, 2016, 2017, 2018] },
+  { "marca": "KTM", "modelo": "Duke 200", "años": [2016, 2017, 2018, 2019] },
+  { "marca": "TVS", "modelo": "Apache 200", "años": [2017, 2018, 2019, 2020] },
+  { "marca": "Kawasaki", "modelo": "Z250", "años": [2015, 2016, 2017, 2018] },
+  { "marca": "Hero", "modelo": "Hunk 160", "años": [2018, 2019, 2020] }
+]
